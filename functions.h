@@ -8,3 +8,4 @@ void hienthi();
 void timkiem();
 void themphantu();
 void sapxep();
+void trangthai();
